@@ -1,0 +1,9 @@
+{
+  "name": "typescript-playground",
+  "version": "1.0.0",
+  "description": "Opinionated quasi-REPL.",
+  "main": "index.js",
+  "repository": "git@github.com:RyanNieuwoudt/TypeScript-Playground.git",
+  "author": "Ryan Nieuwoudt <1231430+RyanNieuwoudt@users.noreply.github.com>",
+  "license": "MIT"
+}
