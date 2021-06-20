@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:RyanNieuwoudt/TypeScript-Playground.git",
   "author": "Ryan Nieuwoudt <1231430+RyanNieuwoudt@users.noreply.github.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  }
 }
