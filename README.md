@@ -1,5 +1,7 @@
 # TypeScript-Playground
 
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/RyanNieuwoudt/TypeScript-Playground)
+
 Opinionated quasi-REPL.
 
 ## Getting started
