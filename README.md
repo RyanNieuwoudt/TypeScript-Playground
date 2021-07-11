@@ -21,11 +21,27 @@ Alternatively, [Open in Visual Studio Code](https://open.vscode.dev/RyanNieuwoud
 
 From a terminal in the `TypeScript-Playground` directory:
 
-`npm install` or `yarn install`
+```shell
+npm install
+```
+
+or
+
+```shell
+yarn install
+```
 
 ### Start the playground
 
-`npm run watch` or `yarn watch`
+```shell
+npm run watch
+```
+
+or
+
+```shell
+yarn watch
+```
 
 ## The REPL
 
