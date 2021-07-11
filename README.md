@@ -11,7 +11,9 @@ Opinionated quasi-REPL.
 
 Clone the repository:
 
-`git clone https://github.com/RyanNieuwoudt/TypeScript-Playground.git`
+```shell
+git clone https://github.com/RyanNieuwoudt/TypeScript-Playground.git
+```
 
 Alternatively, [Open in Visual Studio Code](https://open.vscode.dev/RyanNieuwoudt/TypeScript-Playground) and select "Clone repo in container volume" for a supported environment.
 
