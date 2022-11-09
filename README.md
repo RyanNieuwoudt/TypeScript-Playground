@@ -1,6 +1,7 @@
 # TypeScript-Playground
 
 [![GitHub license](https://img.shields.io/github/license/RyanNieuwoudt/TypeScript-Playground)](https://github.com/RyanNieuwoudt/TypeScript-Playground/blob/main/LICENSE)
+[![Dependency Review](https://github.com/RyanNieuwoudt/TypeScript-Playground/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/RyanNieuwoudt/TypeScript-Playground/actions/workflows/dependency-review.yml)
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/RyanNieuwoudt/TypeScript-Playground)
 
 Opinionated quasi-REPL.
