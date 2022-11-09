@@ -1890,13 +1890,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"pretier@npm:^0.0.1":
-  version: 0.0.1
-  resolution: "pretier@npm:0.0.1"
-  checksum: 8946351805aa4ec6e70e1ee92482c2e763ae10cf74c2d371afac59141dedd73fc767b5613f5b0f4938b44b4d77c74535041934181c98b0c7d48936f5486b88ea
-  languageName: node
-  linkType: hard
-
 "prettier-linter-helpers@npm:^1.0.0":
   version: 1.0.0
   resolution: "prettier-linter-helpers@npm:1.0.0"
@@ -2393,7 +2386,6 @@ __metadata:
     eslint-plugin-functional: ^4.4.1
     eslint-plugin-prettier: ^4.2.1
     eslint-plugin-simple-import-sort: ^8.0.0
-    pretier: ^0.0.1
     prettier: ^2.7.1
     ts-node-dev: ^2.0.0
     tsconfig-paths: ^4.1.0
