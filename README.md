@@ -3,7 +3,22 @@
 [![GitHub license](https://img.shields.io/github/license/RyanNieuwoudt/TypeScript-Playground)](https://github.com/RyanNieuwoudt/TypeScript-Playground/blob/main/LICENSE)
 [![Dependency Review](https://github.com/RyanNieuwoudt/TypeScript-Playground/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/RyanNieuwoudt/TypeScript-Playground/actions/workflows/dependency-review.yml)
 
-Opinionated quasi-REPL.
+## About
+
+A persistent, offline, quasi-REPL for TypeScript that promotes coding with rapid feedback. Ideal for:
+
+- Learning [TypeScript](https://www.typescriptlang.org) itself.
+- Experimenting with [npm](https://www.npmjs.com) packages.
+- Practising coding challenges.
+- Demonstrating code.
+- Building a '[functional core](https://duckduckgo.com/?q=functional+core%2C+imperative+shell&va=k&t=hc&ia=web)' independently of an '[imperative shell](https://duckduckgo.com/?q=functional+core%2C+imperative+shell&va=k&t=hc&ia=web)'.
+- Modelling a [domain](https://duckduckgo.com/?q=domain+modelling&va=k&t=hc&ia=web), in isolation or interactively with a domain expert.
+
+## See also
+
+- For online environments consider the official [TypeScript Playground](https://www.typescriptlang.org/play) or another [online environment](https://duckduckgo.com/?va=k&t=hc&q=typescript+online&ia=web).
+- For a "REPL as document" notebook, consider [Node.js Notebooks (REPL)](https://marketplace.visualstudio.com/items?itemName=donjayamanne.typescript-notebook).
+- To share code snippets, consider [GitHub gist](https://gist.github.com).
 
 ## Getting started
 
@@ -43,12 +58,10 @@ or
 yarn watch
 ```
 
-## The REPL
+## Usage
 
-> "Hello world!"
+With the playground started:
 
-```
-10 See console output
-20 Update program with new code
-30 Goto 10
-```
+1. Observe the output.
+2. Save changes to the code.
+3. Repeat.
