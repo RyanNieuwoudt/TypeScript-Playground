@@ -16,6 +16,8 @@ A persistent, offline, quasi-REPL for TypeScript that promotes coding with rapid
 
 ## See also
 
+- For a [Node.js REPL](https://nodejs.dev/en/learn/how-to-use-the-nodejs-repl/), use the `node` command.
+- For a [Bun REPL](https://bun.sh), use the `bun repl` command.
 - For online environments consider the official [TypeScript Playground](https://www.typescriptlang.org/play) or another [online environment](https://duckduckgo.com/?va=k&t=hc&q=typescript+online&ia=web).
 - For a "REPL as document" notebook, consider [Node.js Notebooks (REPL)](https://marketplace.visualstudio.com/items?itemName=donjayamanne.typescript-notebook).
 - To share code snippets, consider [GitHub gist](https://gist.github.com).
@@ -34,7 +36,7 @@ Alternatively, [Open in Visual Studio Code](https://open.vscode.dev/RyanNieuwoud
 
 ### Install packages
 
-From a terminal in the `TypeScript-Playground` directory:
+The playground supports [npm](https://nodejs.org/), [yarn](https://yarnpkg.com) and [bun](https://bun.sh). From a terminal in the `TypeScript-Playground` directory:
 
 ```shell
 npm install
@@ -44,6 +46,12 @@ or
 
 ```shell
 yarn install
+```
+
+or
+
+```shell
+bun install
 ```
 
 ### Start the playground
@@ -56,6 +64,12 @@ or
 
 ```shell
 yarn watch
+```
+
+or
+
+```shell
+bun watch run
 ```
 
 ## Usage

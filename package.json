@@ -22,6 +22,7 @@
   },
   "scripts": {
     "lint:fix": "eslint --max-warnings 0 '**/*.{ts,js}' --fix",
+    "run": "app/main.ts",
     "watch": "ts-node-dev --respawn -r tsconfig-paths/register -- app/main.ts"
   },
   "packageManager": "yarn@3.3.0"
