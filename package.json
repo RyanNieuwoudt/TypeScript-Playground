@@ -7,18 +7,18 @@
   "author": "Ryan Nieuwoudt <1231430+RyanNieuwoudt@users.noreply.github.com>",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^20.6.0",
-    "@typescript-eslint/eslint-plugin": "^6.6.0",
-    "@typescript-eslint/parser": "^6.6.0",
-    "eslint": "^8.49.0",
-    "eslint-config-prettier": "^9.0.0",
+    "@types/node": "^20.10.4",
+    "@typescript-eslint/eslint-plugin": "^6.13.2",
+    "@typescript-eslint/parser": "^6.13.2",
+    "eslint": "^8.55.0",
+    "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-functional": "^6.0.0",
-    "eslint-plugin-prettier": "^5.0.0",
+    "eslint-plugin-prettier": "^5.0.1",
     "eslint-plugin-simple-import-sort": "^10.0.0",
-    "prettier": "^3.0.3",
+    "prettier": "^3.1.0",
     "ts-node-dev": "^2.0.0",
     "tsconfig-paths": "^4.2.0",
-    "typescript": "^5.2.2"
+    "typescript": "^5.3.3"
   },
   "scripts": {
     "lint:fix": "eslint --max-warnings 0 '**/*.{ts,js}' --fix",
