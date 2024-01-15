@@ -15,7 +15,7 @@
     "eslint-plugin-functional": "^6.0.0",
     "eslint-plugin-prettier": "^5.1.2",
     "eslint-plugin-simple-import-sort": "^10.0.0",
-    "prettier": "^3.1.1",
+    "prettier": "^3.2.2",
     "ts-node-dev": "^2.0.0",
     "tsconfig-paths": "^4.2.0",
     "typescript": "^5.3.3"
