@@ -7,7 +7,7 @@
   "author": "Ryan Nieuwoudt <1231430+RyanNieuwoudt@users.noreply.github.com>",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^20.11.5",
+    "@types/node": "^20.11.10",
     "@typescript-eslint/eslint-plugin": "^6.19.1",
     "@typescript-eslint/parser": "^6.19.1",
     "eslint": "^8.56.0",
